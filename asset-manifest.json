@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-1/static/css/main.e7fbe685.css",
+    "main.js": "/react-1/static/js/main.d36ab817.js",
+    "static/js/787.44a9d392.chunk.js": "/react-1/static/js/787.44a9d392.chunk.js",
+    "static/media/cabin.png": "/react-1/static/media/cabin.4417330275f78faa31c3.png",
+    "static/media/circus.png": "/react-1/static/media/circus.494a4a914b5471b41f3e.png",
+    "static/media/game.png": "/react-1/static/media/game.a940b57aa7bab2eacc52.png",
+    "static/media/submarine.png": "/react-1/static/media/submarine.48c9704ca7f8ce901038.png",
+    "static/media/safe.png": "/react-1/static/media/safe.01792c0bdc342bf4bf9c.png",
+    "static/media/cake.png": "/react-1/static/media/cake.6554473016d32b343f02.png",
+    "static/media/avataaars.svg": "/react-1/static/media/avataaars.aa9aff02ddd0ef36a1724ecef4133df9.svg",
+    "index.html": "/react-1/index.html",
+    "main.e7fbe685.css.map": "/react-1/static/css/main.e7fbe685.css.map",
+    "main.d36ab817.js.map": "/react-1/static/js/main.d36ab817.js.map",
+    "787.44a9d392.chunk.js.map": "/react-1/static/js/787.44a9d392.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e7fbe685.css",
+    "static/js/main.d36ab817.js"
+  ]
+}
