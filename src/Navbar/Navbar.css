@@ -1,0 +1,22 @@
+.navbar{
+    background-color: #2C3E50;
+     position: fixed !important;
+     width: 100%;
+     z-index: 333333333;
+   
+}
+.nav-item{
+    padding: 0px 20px;
+}
+.nav-item .nav-link{
+    color: #fff !important;
+    font-weight: 700;
+    font-size: 17px;
+
+}
+
+.test{
+    background-color: #1ABC9C;
+    color: #fff;
+    border-radius: 10px;
+}

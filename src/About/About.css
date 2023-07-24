@@ -1,0 +1,25 @@
+.par{
+    position: relative;
+}
+
+.linea::after{
+    content: "";
+    position: absolute;
+     
+    top: 0;
+    left:30%;
+    width: 15%;
+    height: 3px;
+    background-color: aliceblue;
+
+}
+.linesa::before{
+    content: "";
+    position: absolute;
+    top: 0;
+    right: 30%;
+    width: 15%;
+    height: 3px;
+    background-color: aliceblue;
+
+}

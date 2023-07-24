@@ -1,0 +1,48 @@
+.par{
+    position: relative;
+}
+
+.linep::after{
+    content: "";
+    position: absolute;
+     
+    top: 0;
+    left:38%;
+    width: 8%;
+    height: 3px;
+    background-color: #2C3E50;
+
+}
+.linesp::before{
+    content: "";
+    position: absolute;
+    top: 0;
+    right: 38%;
+    width: 8%;
+    height: 3px;
+    background-color: #2C3E50;
+
+}
+
+img{
+    border-radius: 10px;
+}
+.part{
+    position: relative;
+    margin-top: 20px;
+}
+.overlay{
+    position: absolute;
+    top:0px;
+    bottom:0px;
+    left:0px;
+    right:0px;
+    background-color: #1ABC9C;
+  opacity: 0;
+  border-radius: 10px;
+  transition: all 1s;
+   
+}
+.overlay:hover{
+    opacity: .9;
+}
